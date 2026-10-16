@@ -1,0 +1,4 @@
+.JatekTer{
+  display: grid;
+  grid-template-areas: 'div div div';
+}
